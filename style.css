@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.form-control {
+    border: 2px solid grey; 
+    border-radius: 30%;
+    padding: 0 25px; 
+    line-height: 45px;
+    height: 45px;
+}
+.btn-primary {
+    background-color: aquamarine;
+}
+.card, .navbar, #myImage {
+    box-shadow: .5em .5em .25em grey;
+    border-radius: 5em;
+}
+
+
+.card-body {
+    padding: 1em;
+}
+
+ 
